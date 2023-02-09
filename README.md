@@ -14,4 +14,4 @@ use following link to download full Project
 5. open the project in VSCode
 6. oepn the project in CMD 
     - in address bar type `cmd` and hit `Enter`
-8. 
+7. 

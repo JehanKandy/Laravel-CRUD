@@ -8,4 +8,5 @@ use following link to download full Project
 <h3>Project Installation</h3>
 
 1. Download the Project
-2. 
+2. in your pc create a folder named `Laravel Projects`
+3. 

@@ -16,4 +16,4 @@ use following link to download full Project
     - in address bar type `cmd` and hit `Enter`
 7. type folowing code link in `cmd`
     
-    php artisan serve
+        php artisan serve

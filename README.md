@@ -17,3 +17,10 @@ use following link to download full Project
 7. type folowing code link in `cmd`
     
         php artisan serve
+        
+8. open any web browser
+9. in address bar type
+
+        127.0.0.1:8000/student
+       
+  

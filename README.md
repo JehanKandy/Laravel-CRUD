@@ -11,3 +11,5 @@ use following link to download full Project
 2. in your pc create a folder named `Laravel Projects`
 3. unzip the file in to createed folder
 4. you shold have any code Editor (recommend : VS Code [Download VScode](https://code.visualstudio.com/download) )
+5. and open the project in VSCode
+6. 

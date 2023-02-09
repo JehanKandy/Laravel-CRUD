@@ -12,4 +12,6 @@ use following link to download full Project
 3. unzip the file in to createed folder
 4. you shold have any code Editor (recommend : VS Code [Download VScode](https://code.visualstudio.com/download) )
 5. open the project in VSCode
-6. 
+6. oepn the project in CMD 
+    - in address bar type `cmd` and hit `Enter`
+8. 
